@@ -1,9 +1,7 @@
-# Webinar Youtube
+# caza asteroides
 
 
-Cómo crear una experiencia de realidad virtual con A-frame
+Realidad Virtual para cazar asterorides con libreria de a-frame
 
 
 
-## Curso completo
-[AQUÍ](https://www.youtube.com/watch?v=LrcF31StZBM&ab_channel=GarajedeIdeas)
